@@ -1,8 +1,3 @@
-Parfait 🙌.
-Voici une première **version experte et structurée d’un BRD (Business Requirements Document)** adaptée au **Build de connecteurs CM, DB, Email/Content, et exports vers Adobe & DataHub Horizon**.
-
----
-
 # 📑 Business Requirements Document (BRD)
 
 **Projet : Build de connecteurs marketing & data (CM, DB, Adobe, DataHub)**
@@ -109,8 +104,6 @@ Voici une première **version experte et structurée d’un BRD (Business Requir
 * Adoption > 80 % par les équipes Marketing & DataOps dans 6 mois.
 
 ---
-
-👉 Ce BRD peut servir directement de **base de cadrage** pour l’architecte solution et les équipes IT/Data.
 
 ---
 
